@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["blink", "stm32h755_cm4_pac", "stm32h755_cm7_pac"]
